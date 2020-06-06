@@ -9,7 +9,7 @@ Link below.
 
 ### Installing
 
-1. Android Studio/VisualStudioCode with Fltter sdk (refer: https://flutter.dev/docs). 
+1. Download Android Studio/VisualStudioCode with Flutter sdk.  (refer: https://flutter.dev/docs). 
 2. Clone this repo.
 3. Run main.dart.
 
