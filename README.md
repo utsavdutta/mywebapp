@@ -15,7 +15,7 @@ Link below.
 
 ## Deployment
 
-https://www.findutsavv.firebaseapp.com/#/
+https://findutsavv.firebaseapp.com/#/
 
 ## Built With
 
