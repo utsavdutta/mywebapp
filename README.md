@@ -40,5 +40,4 @@ modification, are permitted provided that the following conditions are met:</br>
       derived from this software without specific prior written permission.</br>
 ### BSD 3-Clause License
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-orange.svg)](https://opensource.org/licenses/BSD-3-Clause)  
-`[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)`
 
