@@ -25,6 +25,11 @@ https://findutsavv.firebaseapp.com/#/
 
 ## License
 
+## BSD
+### BSD 3-Clause License
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-orange.svg)](https://opensource.org/licenses/BSD-3-Clause)  
+`[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)`
+
 This project is licensed under the BSD 3-Clause License.</br>
 Copyright 2020 The mywebapp Author. All rights reserved.</br>
 
