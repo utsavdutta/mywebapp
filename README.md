@@ -1,10 +1,10 @@
-# MyResponsiveFlutterWebApp
+# ResponsiveFlutterWebApp
 
 Made with Flutter/Dart.
 
 ## Getting Started
 
-My Profile webapp build with dart/flutter. 
+Portfolio webapp build with dart/flutter. 
 Link below.
 
 ### Installing
